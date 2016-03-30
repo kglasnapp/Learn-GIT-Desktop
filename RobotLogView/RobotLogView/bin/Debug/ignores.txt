@@ -1,7 +1,2 @@
 <TagVersion>1
 <count> 1 <flags> 0 <Code> 1
-<details> Joystick Button 8 on port 1 not available, check if controller is plugged in <location> org.usfirst.frc3932.Robot.disabledPeriodic(Robot.java:156)
-<stack> 
-<message> Warning at org.usfirst.frc3932.Robot.disabledPeriodic(Robot.java:156): Joystick Button 8 on port 1 not available, check if controller is plugged in
-<count> 1 <flags> 0 <Code> 1 <details> Joystick Button 8 on port 1 not available, check if controller is plugged in <location> org.usfirst.frc3932.Robot.disabledPeriodic(Robot.java:156) <stack>
-<message> Robot Drive... Output not updated often enough.
